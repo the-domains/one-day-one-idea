@@ -1,0 +1,28 @@
+name: One Day One Idea
+favicon: null
+layout_spectrum: 0.9806161371525377
+typography_spectrum: 0.3995490516535938
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.906252212356776
+  lightness: 0.7974178534932435
+  saturation: 0.5346333873458207
+  rhythmicContrast: 0.45751168578863144
+purpose: []
